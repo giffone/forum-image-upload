@@ -1,0 +1,6 @@
+/db/
+/.idea/
+/.vscode/
+.env
+forum-authentication.code-workspace
+/internal/web/assets/images/post
